@@ -49,7 +49,7 @@ Provide step-by-step instructions on how to install and run your project locally
 
 ### Steps
 1. Clone the repository:
-   git clone https://github.com/yourusername/cryptocurrency-dashboard.git
+   git clone https://github.com/Abhirkt1996/cryptocurrency-dashboard-master.git
 Navigate to the project directory:
 cd cryptocurrency-dashboard
 Install dependencies:
@@ -125,7 +125,7 @@ Cryptocurrency Dashboard is an interactive web application designed to provide u
 
 ### Steps
 1. Clone the repository:
-   git clone https://github.com/Abhirkt1996/cryptocurrency-dashboard.git
+   git clone https://github.com/Abhirkt1996/cryptocurrency-dashboard-master.git
 Navigate to the project directory:
 
 cd cryptocurrency-dashboard
