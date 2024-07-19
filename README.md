@@ -34,10 +34,6 @@ List the main features of your project.
 ## 5. Screenshots
 Add some screenshots of your application to give users a visual understanding of what to expect.
 
-## Screenshots
-![Dashboard Overview](path/to/screenshot1.png)
-![Historical Data](path/to/screenshot2.png)
-
 ## 6. Installation
 Provide step-by-step instructions on how to install and run your project locally.
 
@@ -112,10 +108,6 @@ Cryptocurrency Dashboard is an interactive web application designed to provide u
 - Portfolio management
 - Alerts and notifications
 - User authentication and profiles
-
-## Screenshots
-![Dashboard Overview](path/to/screenshot1.png)
-![Historical Data](path/to/screenshot2.png)
 
 ## Installation
 
